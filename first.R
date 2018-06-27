@@ -5,4 +5,4 @@ library(nycflight13)
 
 str(flights)
 
-flights = data.table(flights
+flights = data.table(flights)
